@@ -1,7 +1,10 @@
-function [] = typewriter( lalastring )
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
+function [] = typewriter( lalastring, speed )
+%speed er hversu margar sekúndur líða á milli uppfærslna á streng
+%lalastring er strengurinn sem á að skrifa út
+for i=1:length(lalastring)
+    clc
+    fprintf(lalastring(1:i))
+    sleep(speed)
+end
 
-for i in lalastring
-    printf i
 end
