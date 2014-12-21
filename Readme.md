@@ -1,1 +1,1 @@
-Oh god why?
+![Screeshot](http://img3.wikia.nocookie.net/__cb20110809182235/fallout/images/c/c0/VaultBoyFO3.png)
